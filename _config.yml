@@ -1,0 +1,11 @@
+title: Igwe Kelechi Daniel
+description: Civil Engineer | Sustainable Infrastructure & Low-Carbon Materials
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - research.md
+  - engineering.md
+  - cv.md
